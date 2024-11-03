@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/api/players",
-      "dest": "/api/players.js"
+      "src": "app.py",
+      "dest": "app.py"
     }
   ]
 }
